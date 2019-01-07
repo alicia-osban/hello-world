@@ -1,0 +1,19 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "test hello world repository",
+  "main": "Hello-World.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alicia-osban/hello-world.git"
+  },
+  "author": "alicia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alicia-osban/hello-world/issues"
+  },
+  "homepage": "https://github.com/alicia-osban/hello-world#readme"
+}
